@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\数据结构\012-快速排序练习\bin\Debug\012-快速排序练习.exe.config
+C:\Users\Administrator\Desktop\数据结构\012-快速排序练习\bin\Debug\012-快速排序练习.exe
+C:\Users\Administrator\Desktop\数据结构\012-快速排序练习\bin\Debug\012-快速排序练习.pdb
+C:\Users\Administrator\Desktop\数据结构\012-快速排序练习\obj\Debug\012-快速排序练习.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\数据结构\012-快速排序练习\obj\Debug\012-快速排序练习.exe
+C:\Users\Administrator\Desktop\数据结构\012-快速排序练习\obj\Debug\012-快速排序练习.pdb
+C:\Users\Administrator\Desktop\排序练习\012-快速排序练习\bin\Debug\012-快速排序练习.exe.config
+C:\Users\Administrator\Desktop\排序练习\012-快速排序练习\obj\Debug\012-快速排序练习.exe
+C:\Users\Administrator\Desktop\排序练习\012-快速排序练习\obj\Debug\012-快速排序练习.pdb
